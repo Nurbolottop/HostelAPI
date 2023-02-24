@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     
     #apps
     'apps.settings',
+    'apps.rooms',
+    
 ]
 
 MIDDLEWARE = [
