@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     
     #apps
     'apps.settings',
-    'apps.rooms',
+    'apps.rooms'
     
 ]
 
